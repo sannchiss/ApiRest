@@ -1,0 +1,14 @@
+{
+
+    "conexion":{
+
+        "server" : "localhost",
+        "user":     "root",
+        "password": "",
+        "database": "tarifa_db",
+        "port":     "3306"
+
+
+    }
+
+}
